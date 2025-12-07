@@ -55,5 +55,5 @@ The application uses two tables:
 The SQL schema is included in:
 
 ```
-data/init.sql
+[data/init.sql](data/init.sql)
 ```
