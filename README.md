@@ -25,8 +25,8 @@ It allows users to register, log in, manage products, and use a simple shopping 
 - Clear the cart
 - Cart stored in PHP session
 
-**Architecture (MVC)
-**
+**Architecture (MVC)**
+
 The project follows a clean MVC structure:
 
 ```pgsql
