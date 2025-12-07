@@ -10,7 +10,7 @@
 
 <header class="site-header">
     <div class="container">
-        <h1 class="brand">Simple Store</h1>
+        <h1 class="brand">Simple Grocery Store</h1>
         <nav class="nav">
             <a class="nav__link" href="<?php echo BASE_URL; ?>/index.php">Home</a>
             <a class="nav__link" href="<?php echo BASE_URL; ?>/index.php?controller=products&action=index">Products</a>
